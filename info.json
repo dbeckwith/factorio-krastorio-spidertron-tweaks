@@ -1,0 +1,13 @@
+{
+  "name": "sonaxaton-krastorio-spidertron-tweaks",
+  "version": "0.1.0",
+  "title": "Krastorio Spidertron Tweaks",
+  "author": "sonaxaton",
+  "homepage": "https://mods.factorio.com/mod/sonaxaton-krastorio-spidertron-tweaks",
+  "description": "Some adjustments to Spidertron on top of Krastorio 2's changes.",
+  "factorio_version": "1.0",
+  "dependencies": [
+    "base >= 1.0",
+    "Krastorio2 >= 1.0"
+  ]
+}
